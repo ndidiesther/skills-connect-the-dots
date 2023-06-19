@@ -1,4 +1,7 @@
+
 # Resources
+
+- Editing this file
 
 - [Learning resources](learning-resources.md)
 - [Documentation references](doc-references__.md)
